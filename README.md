@@ -1,7 +1,7 @@
 # Agshin Nadirov
 
 ## Tech Stack
-- **Backend**: PHP, Laravel, Laravel Livewire, Node.js, Express, Python, Django, Django Rest Framework
-- **Frontend**: React, Vanilla JS, Tailwind CSS, Bulma, Boostrap
-- **Database**: MongoDB, MySQL, PostgreSQL, Sqlite
-- **Other**: Git, REST APIs, Websockets, JWT, Sanctum, Queues, Docker (basic)
+- **Backend**: Java (Spring Boot, Spring MVC, Spring Data JPA, Spring Security), PHP (Laravel, Laravel Livewire)
+- **Frontend**: React, Vanilla JS, Tailwind CSS, Bulma, Bootstrap
+- **Database**: MySQL, PostgreSQL, MongoDB, SQLite
+- **Other**: Git, REST APIs, WebSockets/SSE, JWT (Spring Security & Sanctum), Queues (Spring & Laravel), Docker, Linux Administration
