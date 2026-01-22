@@ -20,18 +20,18 @@
 - **Styling**: Tailwind CSS, Bootstrap, Bulma  
 - **Core**: Vanilla JavaScript, Responsive UI Development  
 
-### 🗄️ Databases
+### Databases
 - **Relational**: MySQL, PostgreSQL  
 - **In-Memory / Messaging**: Redis  
 - **Concepts**: SQL, Indexing, Query Optimization  
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 - **Containerization**: Docker, Docker Compose  
 - **CI/CD**: GitHub Actions  
 - **OS & Runtime**: Linux  
 - **Monitoring & Logging**: ELK Stack, Sentry, Prometheus, Grafana  
 
-### 🛠️ Tooling & Practices
+### Tooling & Practices
 - **Version Control**: Git (GitHub, GitLab)  
 - **API Docs**: Swagger / OpenAPI  
 - **Architecture**: Modular Architecture, Dependency Injection (IoC), SOLID  
