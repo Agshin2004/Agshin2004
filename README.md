@@ -2,7 +2,7 @@
 
 ### **Backend Engineering**
 
-* **Core Languages:** Java, PHP, Python
+* **Core Languages:** Java, Python, PHP
 * **Primary Backend Stack:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Laravel
 * **Spring Ecosystem:** Spring Boot Actuator, Spring Validation, Spring Scheduling, Spring Batch, Spring Profiles, Spring Configuration Properties
 * **API Development:** RESTful APIs, Versioned APIs, Webhooks, OpenAPI/Swagger, DTO-Based API Contracts
